@@ -1,2 +1,2 @@
-# graphease
-GraphEase a simple Python graph builder tool
+# GraphEase
+GraphEase, a simple Python graph builder tool.
